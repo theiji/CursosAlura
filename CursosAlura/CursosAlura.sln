@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paralelismo", "Paralelismo\Paralelismo.csproj", "{BFD5C89B-56D8-4031-9F38-E890DE29677E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD5C89B-56D8-4031-9F38-E890DE29677E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD5C89B-56D8-4031-9F38-E890DE29677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD5C89B-56D8-4031-9F38-E890DE29677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD5C89B-56D8-4031-9F38-E890DE29677E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7B83722-FA48-4F2D-913F-13B342B06401}
+	EndGlobalSection
+EndGlobal
